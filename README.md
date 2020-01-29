@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[Imgur](https://i.imgur.com/LsmHQ3H.gifv)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Peek](https://github.com/phw/peek).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Troubles with using the File Utils (Apache Commons) package, turned out I was using the android.os package instead of Apache 
 
 ## License
 
